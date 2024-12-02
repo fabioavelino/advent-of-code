@@ -28,11 +28,12 @@ To run the solutions locally, you'll need:
    git clone https://github.com/fabioavelino/advent-of-code.git
    cd advent-of-code
    ``` 
-2. Run a solution (for example, for 2024, the Day 1):  
+2. Run a puzzle solution (for example, for 2024, the Day 1):  
    ```bash
    cd 2024/1  # Example for 2024, Day 1
    node index.js # The console will return part one and part two response
    ```  
+   ⚠️ You will need to copy your input data in each puzzle folder and named it `input` in order to run the solution ⚠️.
 
 ---
 
@@ -53,7 +54,7 @@ advent-of-code/
 ```  
 
 Each day has its folder containing:  
-- `input`: The input data for the puzzle.  
+- `input`: The input data for the puzzle, never present in this repo.  
 - `index.js`: My implementation of the solution, with comments for explaining each steps.
 
 ---
