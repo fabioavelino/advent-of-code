@@ -4,19 +4,6 @@ Welcome to my **Advent of Code** repository! This repo contains my solutions to 
 
 [Advent of Code](https://adventofcode.com/) is an annual programming challenge that runs from December 1st to December 25th, featuring fun and tricky problems designed to enhance your coding and problem-solving skills.  
 
----
-
-## 📋 Table of Contents  
-
-- [Setup](#setup)  
-- [Structure](#structure)  
-- [Technologies Used](#technologies-used)  
-- [Progress](#progress)  
-- [Contributing](#contributing)  
-- [License](#license)  
-
----
-
 ## 🛠️ Setup  
 
 To run the solutions locally, you'll need:  
@@ -66,7 +53,7 @@ Each day has its folder containing:
 | Day  | Puzzle Name          | Part 1 | Part 2 |  
 |------|-----------------------|--------|--------|  
 | 1    | ⭐ Historian Hysteria ⭐     | ✅      | ✅      |  
-| 2    | ⭐ Puzzle Title ⭐     | ❌      | ❌      |  
+| 2    | ⭐ Red-Nosed Reports ⭐     | ✅      | ✅      |  
 | ...  | ...                   | ...    | ...    |  
 
 ✅ Completed  
@@ -78,7 +65,3 @@ Each day has its folder containing:
 ## 📜 License  
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.  
-
----
-
-Enjoy the coding journey! 🌟

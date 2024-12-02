@@ -1,7 +1,7 @@
 import * as fs from "node:fs/promises";
 
 const prepareInput = async () => {
-    /* 
+    /** 
     * As we receive a input data list in a format "XXXX   XXXX",
     * we want to split each line and after that split each value. 
     */
@@ -22,12 +22,12 @@ const prepareInput = async () => {
 }
 
 const partOne = async () => {
-    /* 
+    /** 
     * First step: Preparing data
     */
     let [firstColumn, secondColumn] = await prepareInput();
     
-    /* 
+    /**
     * Second step : sorting
     * As we have now our numbers and we need to check the distance
     * always between the smallest on each side, we first sort it 
@@ -36,7 +36,7 @@ const partOne = async () => {
     firstColumn.sort((a, b) => a - b);
     secondColumn.sort((a, b) => a - b);
 
-    /*
+    /**
     * Third step : calculate the distance
     * Now we just to loop into our arrays and check
     * the difference between the values and add them all together
@@ -51,12 +51,12 @@ const partOne = async () => {
 };
 
 const partTwo = async () => {
-    /* 
+    /** 
     * First step: Preparing data
     */
     let [firstColumn, secondColumn] = await prepareInput();
 
-    /* 
+    /** 
     * Second step: Counting
     * We do not need to sort now, but just to know how many 
     * times a value appears in the other array, so we will
