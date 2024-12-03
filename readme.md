@@ -53,7 +53,8 @@ Each day has its folder containing:
 | Day  | Puzzle Name          | Part 1 | Part 2 |  
 |------|-----------------------|--------|--------|  
 | 1    | ⭐ Historian Hysteria ⭐     | ✅      | ✅      |  
-| 2    | ⭐ Red-Nosed Reports ⭐     | ✅      | ✅      |  
+| 2    | ⭐ Red-Nosed Reports ⭐     | ✅      | ✅      |
+| 3    | ⭐ Mull It Over ⭐     | ✅      | ✅      |
 | ...  | ...                   | ...    | ...    |  
 
 ✅ Completed  
@@ -64,4 +65,4 @@ Each day has its folder containing:
 
 ## 📜 License  
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.  
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
