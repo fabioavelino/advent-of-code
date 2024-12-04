@@ -55,6 +55,7 @@ Each day has its folder containing:
 | 1    | ⭐ Historian Hysteria ⭐     | ✅      | ✅      |  
 | 2    | ⭐ Red-Nosed Reports ⭐     | ✅      | ✅      |
 | 3    | ⭐ Mull It Over ⭐     | ✅      | ✅      |
+| 4    | ⭐ Ceres Search ⭐     | ✅      | ✅      |
 | ...  | ...                   | ...    | ...    |  
 
 ✅ Completed  
